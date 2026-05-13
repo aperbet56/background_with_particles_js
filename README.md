@@ -6,7 +6,7 @@ Création d'un background avec la librairie particles.js de Vincent Garreau (htt
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/background_with_particles_js/
 
 ## Projet développé avec
 
