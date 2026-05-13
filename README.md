@@ -1,5 +1,7 @@
 ## BACKGROUND AVEC PARTICLES.JS
 
+![Design preview for the project](./images/preview.png)
+
 ## Le challenge
 
 Création d'un background avec la librairie particles.js de Vincent Garreau (https://github.com/vincentgarreau/particles.js/)
